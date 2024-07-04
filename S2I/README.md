@@ -4,7 +4,7 @@
 ***
 A Creative Style Generation Framework for Fashion Design
 
-Our model weights is avialable [**checkpoint**](https://drive.google.com/drive/folders/1DW2O9xIiL_wb4BDz06PflUqSq_n9v-Lf?usp=drive_link)
+Our model weights is avialable [**checkpoint**](https://drive.google.com/drive/folders/1buA1_4TSS8QaUhNH_om4PltAfo4mlFLR)
 
 ## Data Preparation
 For datasets that have paired sketch-image data, the path should be formatted as:
