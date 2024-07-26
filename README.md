@@ -1,17 +1,39 @@
 # HAIGEN: Towards Human-AI Collaboration for Facilitating Creativity and Style Generation in Fashion Design
 
-Some modules in our framework are presented as follows：
+## 🖼️ Framework
 
-## Part 01: Image-to-Sketch Generation
+<div align=center><img src="./figs/HAIGEN.png" width = 90%></div>
 
-[Link](./I2S/)
+<br>
 
-## Part 02: Sketch-to-Image Style Transfer
+You can find the [Demo Video](https://youtu.be/ijIJdaOUrlo).
 
-[Link](./S2I)
+***
 
-## Dataset
+The four modules in our framework are presented as follows：
 
-[Part 01] Three Designers sketch-image pairs in [Clothes-V1](https://drive.google.com/file/d/1dPNQOaFYMRY2sxREs8Is-G3ltpi61Ftm/view?usp=drive_link)
+## Part 01: Text-to-Image Cloud Module
 
-[Part 02] Style Transfer sketch-image pairs in [HAIFashion](https://drive.google.com/file/d/1Cy8I92VYnBEgWbpIvLsy5VcYPliJ1PON/view?usp=drive_link)
+🧩 It has been integrated into the [Wondershare AI Draw](https://aigc.wondershare.com/app/image-gen) 🤗
+
+<be>
+
+<div align=center><img src="./figs/TIM.png" width = 88%></div>
+
+<br>
+
+<div align=center><img src="./figs/t2i_gen.png" width = 90%></div>
+
+<br>
+
+## Part 02: Image-to-Sketch Local Module
+
+🧩 Please refer to the [I2S README](./I2S/) 🤗
+
+## Part 03: Sketch Recommendation Module
+
+🧩 Please refer to the [SIR README](./SIR) 🤗
+
+## Part 04: Style Transfer Module
+
+🧩 Please refer to the [S2I README](./S2I) 🤗
