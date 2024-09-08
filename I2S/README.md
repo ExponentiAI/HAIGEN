@@ -26,7 +26,7 @@ python main.py
 
 ### 2. Test
 ```yaml
-python evaluate.py.py
+python evaluate.py
 ```
 Note: you should change your checkpoint path.
 
